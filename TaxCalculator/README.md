@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+Feb. 26, 2018
 
 ### Student Name:  
-(First and Last Name)
+Kana Ledbetter
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment introduced the basic JavaScript programming to build a tax calucurator.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kanaled.github.io/lesson5_javascript2/TaxCalculator
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. JavaScript - Conditional Statements
+2. JavaScript - Functions
+3. JavaScript - Storing Values
 
